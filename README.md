@@ -1,0 +1,1 @@
+An Simple event management system
